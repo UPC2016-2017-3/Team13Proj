@@ -1,0 +1,65 @@
+D:\Documents\Visual Studio 2005\Projects\CarManager\CarManager\bin\Debug\CarManager.exe.config
+D:\Documents\Visual Studio 2005\Projects\CarManager\CarManager\obj\Debug\Interop.MSACAL.dll
+D:\Documents\Visual Studio 2005\Projects\CarManager\CarManager\obj\Debug\Interop.MSAdodcLib.dll
+D:\Documents\Visual Studio 2005\Projects\CarManager\CarManager\obj\Debug\AxInterop.MSACAL.dll
+D:\Documents\Visual Studio 2005\Projects\CarManager\CarManager\obj\Debug\AxInterop.MSAdodcLib.dll
+D:\Documents\Visual Studio 2005\Projects\CarManager\CarManager\obj\Debug\CarManager.csproj.ResolveComReference.cache
+D:\Documents\Visual Studio 2005\Projects\CarManager\CarManager\obj\Debug\CarManager.exe
+D:\Documents\Visual Studio 2005\Projects\CarManager\CarManager\obj\Debug\CarManager.pdb
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\bin\Debug\CarManager.exe.config
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\AxInterop.MSComctlLib.dll
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.csproj.ResolveComReference.cache
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.exe
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.pdb
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.AboutBox1.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.Fabout.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.Fcapacity.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.FCarin.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.Fdata.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.Fhelp.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.Flog.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.Fportstate.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.Ffare.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.Properties.Resources.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.UserControl1.resources
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.csproj.GenerateResource.Cache
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.exe.manifest
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\bin\Debug\CarManager.exe.manifest
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\bin\Debug\CarManager.application
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\bin\Debug\CarManager.exe
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\bin\Debug\CarManager.pdb
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\bin\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\bin\Debug\office.dll
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\bin\Debug\AxInterop.MSComctlLib.dll
+E:\项目\wwb调试\审核后台源码\CarManager_bfc71cbe-176d-4d2a-974f-e91fa355c7a8\CarManager\obj\Debug\CarManager.application
+F:\停车场管理系统\ParkingManager\bin\Debug\CarManager.exe.config
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.csproj.ResolveComReference.cache
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.exe
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.pdb
+F:\停车场管理系统\ParkingManager\obj\Debug\ResolveAssemblyReference.cache
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.AboutBox1.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.Fabout.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.Fcapacity.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.FCarin.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.Fdata.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.Fhelp.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.Flog.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.Fportstate.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.Ffare.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.Properties.Resources.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.UserControl1.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.csproj.GenerateResource.Cache
+F:\停车场管理系统\ParkingManager\bin\Debug\CarManager.exe.manifest
+F:\停车场管理系统\ParkingManager\bin\Debug\CarManager.application
+F:\停车场管理系统\ParkingManager\bin\Debug\CarManager.exe
+F:\停车场管理系统\ParkingManager\bin\Debug\CarManager.pdb
+F:\停车场管理系统\ParkingManager\bin\Debug\Microsoft.Vbe.Interop.dll
+F:\停车场管理系统\ParkingManager\bin\Debug\office.dll
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.exe.manifest
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.application
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.VIP.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\CarManager.Login.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\Search.infor.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\Search.FrmUserAdd.resources
+F:\停车场管理系统\ParkingManager\obj\Debug\Search.FrmUserUpdate.resources
